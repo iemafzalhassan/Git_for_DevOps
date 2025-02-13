@@ -4,7 +4,7 @@ This guide provides a complete list of essential, advanced, and DevOps-specific 
 
 ---
 
-## **Basic Git Commands (Foundation)**
+## **Basic Git Commands (Foundation):**
 
 ### 1. **Initialize a New Repository**
    - **Command:** `git init`
