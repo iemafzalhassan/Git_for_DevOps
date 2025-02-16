@@ -2,7 +2,7 @@
 ---
 
 
-#### **Table of Contents**
+#### **Table of Contents:**
 
 1. **Introduction to Git**
    - Who Developed Git and Why?
